@@ -1,4 +1,4 @@
-# Save Money
+﻿# Save Money
 
 Application de bureau pour suivre ses revenus, ses dépenses et son épargne, mois par mois.
 
@@ -11,7 +11,8 @@ Application de bureau pour suivre ses revenus, ses dépenses et son épargne, mo
 
 Rends-toi sur la page [Releases](../../releases) et télécharge la dernière version :
 
-- **Installateur Windows** (`.msi` ou `.exe`) : lance-le et suis les étapes.
+- **`savemoney_0.1.0_x64-setup.exe`** : installateur classique, à lancer et suivre pas à pas.
+- **`savemoney_0.1.0_x64_en-US.msi`** : paquet Windows Installer, pour une installation en entreprise ou via un gestionnaire de paquets.
 
 ### Avertissement de Windows
 
@@ -38,3 +39,4 @@ Le code source n'est pas publié dans ce dépôt.
 ## Licence
 
 © 2026 Helin. Tous droits réservés. L'application est fournie telle quelle, sans garantie.
+
